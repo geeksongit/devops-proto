@@ -1,2 +1,2 @@
-# devops-proto
+# DevOps Prototype
 Development &lt;--> Deployment &lt;--> Maintenance
